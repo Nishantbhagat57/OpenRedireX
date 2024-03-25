@@ -31,6 +31,7 @@ https://example.com@google.com/%2f..
 /%2f%5c%2f%67%6f%6f%67%6c%65%2e%63%6f%6d/
 /%5cexample.com
 /%68%74%74%70%3a%2f%2f%67%6f%6f%67%6c%65%2e%63%6f%6d
+.example.com
 /.example.com
 //%09/example.com
 //%5cexample.com
@@ -42,3 +43,19 @@ https://example.com@google.com/%2f..
 /////example.com/
 ////\;@example.com
 ////example.com/
+//evil%E3%80%82com
+////evil%E3%80%82com
+////evil%E3%80%82com
+http:/evil%E3%80%82com
+.%2fhttp:/evil%E3%80%82com/
+.%2fhttp:/evil%E3%80%82com
+%2fhttp:/evil%E3%80%82com
+evil%E3%80%82com
+////%E3%80%82evil.com
+नमस्ते.भारत
+https://tagassistant.google.com/debug/clearcookies?url=https://evil.com
+//evil.com
+http:/evil.com
+.%2fhttp:/evil.com/
+.%2fhttp:/evil.com
+%2fhttp:/evil.com
