@@ -65,3 +65,6 @@ http:/evil.com
 %0d%0ahttp:/evil.com
 %0d%0aevil.com
 %0d%0a//evil.com
+%E3%80%82http:/evil.com
+%E3%80%82evil.com
+%E3%80%82//evil.com
