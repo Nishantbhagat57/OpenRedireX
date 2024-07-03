@@ -68,3 +68,5 @@ http:/evil.com
 %E3%80%82http:/evil.com
 %E3%80%82evil.com
 %E3%80%82//evil.com
+aHR0cHM6Ly9ldmlsLmNvbQ==
+Ly9ldmlsLmNvbQ==
